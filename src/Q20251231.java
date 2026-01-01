@@ -1,10 +1,9 @@
 import java.util.Scanner;
-import java.util.Arrays;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class Q20251231 {
     public static void main(String[] args) {
         // 전체 회의 개수 받기
         Scanner sc = new Scanner(System.in);
