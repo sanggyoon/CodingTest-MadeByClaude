@@ -1,18 +1,5 @@
-## Getting Started
+# 실력 맞춤 코딩 테스트 made by claude
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- 클루드는 절대 정답을 알려주지 않습니다.
+- (해시, 스택, 큐, 힙, 정렬, 탐색, 완전탐색, 탐욕법, 동적탐색범, 깊이우선탐색, 너비우선탐색, 이분탐색, 그래프...) 다양한 알고리즘과 자료구조 문제를 접하고 어려워 했던 부분과 잘 풀었던 부분을 실력업데이트.md 파일로 남겨놓습니다.
+- 실력업데이트.md 파일을 참고하여 문제를 생성합니다.
